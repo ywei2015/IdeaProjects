@@ -1,0 +1,234 @@
+GET http://localhost:8090/rmiclient/dynamic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T050610.200.txt
+
+###
+
+GET http://localhost:8090/rmiclient/dynamic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T050021.404.html
+
+###
+
+GET http://localhost:8090/dynamic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+GET http://localhost:8090/rmiclient/dynamic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T045931.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/dynamic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T045829.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/dynatic/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T045708.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T044946.200.txt
+
+###
+
+GET http://localhost:8090/rmiclient/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T044419.500.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts-servlet/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T044209.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T043643.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T043348.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T043203.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042354.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042351.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042308.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042248.404.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042028.404.html
+
+###
+
+PUT http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042009.403.html
+
+###
+
+GET http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T042003.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T041911.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T041622.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T041003.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T040614.404.html
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8090/rmiclient?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST http://localhost:8090/rmiclient/contacts/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T040247.404.html
+
+###
+
+POST http://localhost:8090/rmiclient?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-02-26T040150.200.html
+
+###
+
+POST localhost:8090/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST localhost:8090/rmiclient/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+POST localhost:8090/rmiclient/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
+GET localhost:8090/rmiclient/rmi/login?a=1
+Accept:*/*
+Cache-Control:no-cache
+
+###
+
